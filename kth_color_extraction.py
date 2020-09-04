@@ -1,5 +1,3 @@
-
-
 import numpy as np
 import cv2
 from IPython.display import Image
@@ -30,7 +28,6 @@ def centroid_histogram(KNN):
     hist /= hist.sum()
     return hist
 
-\
 
 def plot_colors(hist,centroids):
    
@@ -69,8 +66,6 @@ def plot_knn(k,path):
     img_KNN=plt.imshow(res2)
     plt.show()
     return 
-
-\
 
 
 
