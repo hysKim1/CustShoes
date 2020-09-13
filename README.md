@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <h2 style='font-weight: bold; font-size:18px;'>CustShooes</h2>
+  <h2 style='font-weight: bold; font-size:18px;'></h2>
   <img src='img/1.png' width=900 />
    <img src='img/web.png' width=900 />
   </a>
